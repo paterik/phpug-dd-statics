@@ -3,6 +3,3 @@
 out
 gen
 *.log
-vendor/*
-web/css
-web/js

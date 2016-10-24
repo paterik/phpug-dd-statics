@@ -1,12 +1,9 @@
 html, body, .container {
-
     font-family: 'Cormorant Garamond', serif;
 }
 
 h1, h2, h3, h4, h5 {
-
-    font-weight: bold!important;
-
+    font-weight: bold;
 }
 
 hr.stylish {
@@ -43,6 +40,5 @@ hr.footer {
 }
 
 .small-footer-text {
-
-    font-size: 10px
+    font-size: 10px;
 }

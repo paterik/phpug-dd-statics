@@ -2,7 +2,7 @@
 ## static html5 templates for phpug-dresden.org
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
-[![System Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](VERSION)
+[![System Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](VERSION)
 
 This repository will hold static content for our imprint, privacy notes and disclaimer used as external link source(s)
 
